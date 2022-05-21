@@ -1,8 +1,3 @@
-## GitHub Link
-https://github.com/ivy0305/cits4419-project
-
-If you are viewing it on github then this is the current URL.
-
 ## Dataset Information
 * Number of data: 16
 * Number of attributes: 14
